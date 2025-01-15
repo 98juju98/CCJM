@@ -1,15 +1,14 @@
 # CCJM
 Installation: 
-- Copier-Coller le dossier CCJM et le fichier CCJM.addin dans:
-"C:\Users\"Your_Name"\AppData\Roaming\Autodesk\Revit\Addins\2023" (pas besoin de droit administrateur).
+- Copy-paste the CCJM folder and the CCJM.addin file in: "C: Users"Your_Name" AppData Roaming Autodesk Revit Addins 2023" (no need for administrator rights).
 
-# Fonctionnalité
-- "Show Your DackablePane": Affiche le DockablePane permettant de géré vos raccourcis chemin, vos hyperliens, vos commandes
-- "Hide DockablePane" : Masque le DockablePane
-- "Multiple Sheets To One DWG" : Exporte un jeu de feuille (plusieurs feuilles) déja enregistré sur 1 seule dwg sans les présentations.
-- "Center Of Grafité" : Place une famille au centre de gravité d'un (ou plusieurs) élement.
-- "Your Saved Path" : retrouvez l'ensemble de vos chemins enregistré (chemin et hyperliens) à partir du DockablePane.
-- "Information on this document" : Export au format Excel ou txt plusieurs information sur le document revit.
-- "Information CCJM" : trouvez la dernière version
-- "Recollation Diaphragm Wall" : Crée un triangulation delaunay sur un élément vertical à partir d'un fichier dwg contenant des points (1 dwg par face de triangulation).
-- "Move" : déplacé le panneau et enregistré vos boutons les plus utilisés à partir du DockablePane, vous pouvez aussi personnalisé les icones de ce panneau (image en 16x16 pixel)
+# Functionality
+- "Show Your DackablePane": Displays the DockablePane to manage your shortcuts, hyperlinks, commands
+- "Hide DockablePane" : Mask the DockablePane
+- "Multiple Sheets To One DWG" : Exports a set of sheets (several sheets) already saved on 1 single dwg without the presentations.
+- "Center Of Gravity" : Places a family in the centre of gravity of one (or more) elements.
+- "Your Saved Path" : find all your saved paths (path and hyperlinks) from the DockablePane.
+- "Information on this document" : Export to Excel or txt multiple information on the document revit.
+- "Information CCJM" : find the latest version.
+- "Recollation Diaphragm Wall" : Creates a triangulation delaunay on a vertical element from a dwg file containing points (1 dwg per side of triangulation).
+- "Move" : moved the panel and saved your most used buttons from DockablePane, you can also customize the icons of this panel (16x16 pixel image).
