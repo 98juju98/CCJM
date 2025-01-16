@@ -1,3 +1,8 @@
+![GitHub Release](https://img.shields.io/github/v/release/98juju98/CCJM?include_prereleases&style=flat)
+![GitHub All Releases](https://img.shields.io/github/downloads/98juju98/CCJM/total?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/98juju98/CCJM?style=flat)
+![GitHub issues](https://img.shields.io/github/issues/98juju98/CCJM?style=flat)
+
 # CCJM
 Installation: 
 - Copy-paste the CCJM folder and the CCJM.addin file in: "C: Users"Your_Name" AppData Roaming Autodesk Revit Addins 2023" (no need for administrator rights).
