@@ -6,6 +6,9 @@
 # CCJM
 Installation: 
 - Copy-paste the CCJM folder and the CCJM.addin file in: "C: Users"Your_Name" AppData Roaming Autodesk Revit Addins 2023" (no need for administrator rights).
+
+
+![ruban](https://github.com/user-attachments/assets/f87ded8d-4607-467b-97e2-f81f15dc518e)
   
 Uninstall:
 - Remove CCJM folder and the CCJM.addin file in: "C: Users"Your_Name" AppData Roaming Autodesk Revit Addins 2023"
@@ -34,3 +37,4 @@ Uninstall:
 - Edit the actions of your bouttons with the DockablePane:
 
 ![transaction  panel](https://github.com/user-attachments/assets/9bf6384b-02e2-413f-afe0-ed319363753f)
+
