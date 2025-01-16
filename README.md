@@ -4,6 +4,9 @@
 ![GitHub issues](https://img.shields.io/github/issues/98juju98/CCJM?style=flat)
 
 # CCJM
+![ruban](https://github.com/user-attachments/assets/f87ded8d-4607-467b-97e2-f81f15dc518e)
+
+
 Installation: 
 - After downloading, right click on the CCJM.zip / Property / and click on Unblock:
 
@@ -11,9 +14,6 @@ Installation:
 
 - Copy-paste the CCJM folder and the CCJM.addin file in: "C: Users"Your_Name" AppData Roaming Autodesk Revit Addins 2023" (no need for administrator rights).
 - You must have .NET Framework 4.8 RunTime (included in Windows11 and from windows10 21H2) : https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48
-
-
-![ruban](https://github.com/user-attachments/assets/f87ded8d-4607-467b-97e2-f81f15dc518e)
   
 Uninstall:
 - Remove CCJM folder and the CCJM.addin file in: "C: Users"Your_Name" AppData Roaming Autodesk Revit Addins 2023"
