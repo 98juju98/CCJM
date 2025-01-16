@@ -5,6 +5,10 @@
 
 # CCJM
 Installation: 
+- After downloading, right click on the CCJM.zip / Property / and click on Unblock:
+
+![déblocage](https://github.com/user-attachments/assets/cc84592a-ba80-4226-8712-c710b2fb59de)
+
 - Copy-paste the CCJM folder and the CCJM.addin file in: "C: Users"Your_Name" AppData Roaming Autodesk Revit Addins 2023" (no need for administrator rights).
 - You must have .NET Framework 4.8 RunTime (included in Windows11 and from windows10 21H2) : https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48
 
@@ -29,7 +33,8 @@ Uninstall:
   
 - Customize your icons:
 
-![button1](https://github.com/user-attachments/assets/2976d138-f73f-4ee7-97fb-c28294647224)
+![button1](https://github.com/user-attachments/assets/2ab12302-da00-4ef7-be6a-a0274ce087fb)
+https://github.com/user-attachments/assets/2976d138-f73f-4ee7-97fb-c28294647224)
 
 - Move your panel:
 
@@ -38,4 +43,3 @@ Uninstall:
 - Edit the actions of your bouttons with the DockablePane:
 
 ![transaction  panel](https://github.com/user-attachments/assets/9bf6384b-02e2-413f-afe0-ed319363753f)
-
