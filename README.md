@@ -1,6 +1,7 @@
 # CCJM
 Installation: 
 - Copy-paste the CCJM folder and the CCJM.addin file in: "C: Users"Your_Name" AppData Roaming Autodesk Revit Addins 2023" (no need for administrator rights).
+  
 Uninstall:
 - Remove CCJM folder and the CCJM.addin file in: "C: Users"Your_Name" AppData Roaming Autodesk Revit Addins 2023"
 
