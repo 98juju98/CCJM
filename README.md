@@ -3,7 +3,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/98juju98/CCJM?style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/98juju98/CCJM?style=flat)
 
-# CCJM
+# CCJM (Bêta)
 ![ruban](https://github.com/user-attachments/assets/f87ded8d-4607-467b-97e2-f81f15dc518e)
 
 
@@ -33,8 +33,7 @@ Uninstall:
   
 - Customize your icons:
 
-![button1](https://github.com/user-attachments/assets/2ab12302-da00-4ef7-be6a-a0274ce087fb)
-https://github.com/user-attachments/assets/2976d138-f73f-4ee7-97fb-c28294647224)
+![button1](https://github.com/user-attachments/assets/2976d138-f73f-4ee7-97fb-c28294647224)
 
 - Move your panel:
 
