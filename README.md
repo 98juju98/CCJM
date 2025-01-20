@@ -8,7 +8,7 @@
 
 
 Installation:
-- Download CCJM.zip in Realase
+- Download CCJM.zip in Releases
 - After downloading, right click on the CCJM.zip / Property / and click on Unblock:
 
 ![déblocage](https://github.com/user-attachments/assets/cc84592a-ba80-4226-8712-c710b2fb59de)
