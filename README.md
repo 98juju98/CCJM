@@ -8,7 +8,7 @@
 
 ## Description
 
-CCJM is a plugin for Autodesk Revit designed to enhance productivity by providing additional features such as managing shortcuts, hyperlinks, and custom commands.
+CCJM is a plugin for Autodesk Revit designed to enhance productivity by providing additional features such as managing shortcuts, hyperlinks, and your favorite commands. Export multiple sheets in 1 dwg. Generated the center of gravity. Traingulation from vertical points.
 
 ## Installation
 1. **Download**: Obtain the `CCJM.zip` file from the [Releases](https://github.com/98juju98/CCJM/releases) section of this repository.
@@ -40,11 +40,11 @@ To uninstall CCJM:
 
 ## Features
 
-- **Show DockablePane**: Displays the DockablePane to manage your shortcuts, hyperlinks, and custom commands.
+- **Show DockablePane**: Displays the DockablePane to manage your shortcuts, hyperlinks, and favorite commands.
 
 - **Hide DockablePane**: Hides the DockablePane.
 
-- **Multiple Sheets To One DWG**: Exports a set of sheets into a single DWG file without layouts.
+- **Multiple Sheets To One DWG**: Exports a set of sheets into a single DWG file without title block.
 
 - **Center Of Gravity**: Places a family at the center of gravity of one or more selected elements.
 
