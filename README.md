@@ -6,40 +6,82 @@
 # CCJM (Bêta)
 ![ruban](https://github.com/user-attachments/assets/f87ded8d-4607-467b-97e2-f81f15dc518e)
 
+## Description
 
-Installation:
-- Download CCJM.zip in Releases
-- After downloading, right click on the CCJM.zip / Property / and click on Unblock:
+CCJM is a plugin for Autodesk Revit designed to enhance productivity by providing additional features such as managing shortcuts, hyperlinks, and custom commands.
 
-![déblocage](https://github.com/user-attachments/assets/cc84592a-ba80-4226-8712-c710b2fb59de)
+## Installation
+1. **Download**: Obtain the `CCJM.zip` file from the [Releases](https://github.com/98juju98/CCJM/releases) section of this repository.
 
-- Copy-paste the CCJM folder and the CCJM.addin file in: "C: Users"Your_Name" AppData Roaming Autodesk Revit Addins 2023" (no need for administrator rights).
-- You must have .NET Framework 4.8 RunTime (included in Windows11 and from windows10 21H2) : https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48
+2. **Unblock**: After downloading, right-click on `CCJM.zip`, select `Properties`, and check `Unblock` if available.
+
+   ![Unblock](https://github.com/user-attachments/assets/cc84592a-ba80-4226-8712-c710b2fb59de)
+
+3. **Extract**: Unzip the contents of `CCJM.zip`.
+
+4. **Install**: Copy the `CCJM` folder and the `CCJM.addin` file to the following directory:
+  ```
+  C:\Users\[Your_Name]\AppData\Roaming\Autodesk\Revit\Addins\2023`
+  ```
+
+> *Note: The `AppData` folder is hidden by default. To reveal it, open File Explorer, go to the `View` tab, and check `Hidden items`.*
+
+5. **Prerequisites**: Ensure that the .NET Framework 4.8 is installed on your system. It is included by default in Windows 11 and Windows 10 version 21H2 and later. If not present, download it from the official Microsoft website: [https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48).
   
-Uninstall:
-- Remove CCJM folder and the CCJM.addin file in: "C: Users"Your_Name" AppData Roaming Autodesk Revit Addins 2023"
+## Uninstallation
 
-# Functionality
-- "Show Your DackablePane": Displays the DockablePane to manage your shortcuts, hyperlinks, commands
-- "Hide DockablePane" : Mask the DockablePane
-- "Multiple Sheets To One DWG" : Exports a set of sheets (several sheets) already saved on 1 single dwg without the presentations.
-- "Center Of Gravity" : Places a family in the center of gravity of one (or more) elements.
-- "Your Saved Path" : find all your saved paths (path and hyperlinks) from the DockablePane.
-- "Information on this document" : Export to Excel or txt multiple information on the document revit.
-- "Information CCJM" : find the latest version.
-- "Recollation Diaphragm Wall" : Creates a triangulation delaunay on a vertical element from a dwg file containing points (1 dwg per side of triangulation).
-- "Move" : moved the panel and saved your most used buttons from DockablePane, you can also customize the icons of this panel (16x16 pixel image).
+To uninstall CCJM:
 
-# Your Panel
+- Delete the `CCJM` folder and the `CCJM.addin` file from the directory:
   
-- Customize your icons:
+  ```
+  C:\Users\[Your_Name]\AppData\Roaming\Autodesk\Revit\Addins\2023`
+  ```
 
-![button1](https://github.com/user-attachments/assets/2976d138-f73f-4ee7-97fb-c28294647224)
+## Features
 
-- Move your panel:
+- **Show DockablePane**: Displays the DockablePane to manage your shortcuts, hyperlinks, and custom commands.
 
-![Move panel](https://github.com/user-attachments/assets/2f5e1042-0d3c-494e-bbef-959431285b0e)
+- **Hide DockablePane**: Hides the DockablePane.
 
-- Edit the actions of your bouttons with the DockablePane:
+- **Multiple Sheets To One DWG**: Exports a set of sheets into a single DWG file without layouts.
 
-![transaction  panel](https://github.com/user-attachments/assets/9bf6384b-02e2-413f-afe0-ed319363753f)
+- **Center Of Gravity**: Places a family at the center of gravity of one or more selected elements.
+
+- **Your Saved Path**: Retrieve all your saved paths and hyperlinks from the DockablePane.
+
+- **Information on this Document**: Exports various information about the current Revit document to Excel or TXT format.
+
+- **Information CCJM**: Check for the latest version of the plugin.
+
+- **Recollation Diaphragm Wall**: Creates a Delaunay triangulation on a vertical element from a DWG file containing points (one DWG per side of the triangulation).
+
+- **Move**: Moves the panel and saves your most used buttons from the DockablePane. You can also customize the icons of this panel (16x16 pixel images).
+
+
+## Customizing Your Panel
+
+- **Customize your icons**:
+
+![Button1](https://github.com/user-attachments/assets/2976d138-f73f-4ee7-97fb-c28294647224)
+
+- **Move your panel**:
+
+![Move Panel](https://github.com/user-attachments/assets/2f5e1042-0d3c-494e-bbef-959431285b0e)
+
+- **Edit the actions of your buttons with the DockablePane**:
+
+![Transaction Panel](https://github.com/user-attachments/assets/9bf6384b-02e2-413f-afe0-ed319363753f)
+
+## Compatibility
+
+This plugin is compatible with Autodesk Revit 2023.
+
+## Support and Contact
+
+For any questions or assistance, please open an issue on the GitHub repository or contact the author directly.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/98juju98/CCJM/blob/main/LICENSE) file for details.
+
