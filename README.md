@@ -3,12 +3,12 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/98juju98/CCJM?style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/98juju98/CCJM?style=flat)
 
-# CCJM (Bêta)
-![ruban](https://github.com/user-attachments/assets/f87ded8d-4607-467b-97e2-f81f15dc518e)
+# CCJM (plugin Revit)
+![CCJM ruban](https://github.com/user-attachments/assets/f2244591-a7f6-4878-9c5e-3871cb36a49d)
 
 ## Description
 
-CCJM is a plugin for Autodesk Revit designed to enhance productivity by providing additional features such as managing shortcuts, hyperlinks, and your favorite commands. Export multiple sheets in 1 dwg. Generated the center of gravity. Traingulation from vertical points.
+CCJM is a plugin for Autodesk Revit designed to enhance productivity by providing additional features such as managing shortcuts, hyperlinks, and your favorite commands. Export multiple sheets in 1 dwg. Generated the center of gravity. Traingulation from vertical points. Sum volumes, area, length ...
 
 ## Installation
 1. **Download**: Obtain the `CCJM.zip` file from the [Releases](https://github.com/98juju98/CCJM/releases) section of this repository.
@@ -19,9 +19,9 @@ CCJM is a plugin for Autodesk Revit designed to enhance productivity by providin
 
 3. **Extract**: Unzip the contents of `CCJM.zip`.
 
-4. **Install**: Copy the `CCJM` folder and the `CCJM.addin` file to the following directory:
+4. **Install**: Copy the `2023` `2024` `2025` folder to the following directory:
   ```
-  C:\Users\[Your_Name]\AppData\Roaming\Autodesk\Revit\Addins\2023`
+  C:\Users\[Your_Name]\AppData\Roaming\Autodesk\Revit\Addins`
   ```
 
 > *Note: The `AppData` folder is hidden by default. To reveal it, open File Explorer, go to the `View` tab, and check `Hidden items`.*
@@ -36,13 +36,13 @@ To uninstall CCJM:
   
   ```
   C:\Users\[Your_Name]\AppData\Roaming\Autodesk\Revit\Addins\2023`
+  C:\Users\[Your_Name]\AppData\Roaming\Autodesk\Revit\Addins\2024`
+  C:\Users\[Your_Name]\AppData\Roaming\Autodesk\Revit\Addins\2025`
   ```
 
 ## Features
 
 - **Show DockablePane**: Displays the DockablePane to manage your shortcuts, hyperlinks, and favorite commands.
-
-- **Hide DockablePane**: Hides the DockablePane.
 
 - **Multiple Sheets To One DWG**: Exports a set of sheets into a single DWG file without title block.
 
@@ -50,11 +50,13 @@ To uninstall CCJM:
 
 - **Your Saved Path**: Retrieve all your saved paths and hyperlinks from the DockablePane.
 
+- **Sum**: Adds the values of elements with the same parameter name (Volume, surface, length...).
+
+- **Recollation Diaphragm Wall**: Creates a Delaunay triangulation on a vertical element from a DWG file containing points (one DWG per side of the triangulation).
+
 - **Information on this Document**: Exports various information about the current Revit document to Excel or TXT format.
 
 - **Information CCJM**: Check for the latest version of the plugin.
-
-- **Recollation Diaphragm Wall**: Creates a Delaunay triangulation on a vertical element from a DWG file containing points (one DWG per side of the triangulation).
 
 - **Move**: Moves the panel and saves your most used buttons from the DockablePane. You can also customize the icons of this panel (16x16 pixel images).
 
@@ -75,7 +77,7 @@ To uninstall CCJM:
 
 ## Compatibility
 
-This plugin is compatible with Autodesk Revit 2023.
+This plugin is compatible with Autodesk Revit 2023, Autodesk Revit 2024, Autodesk Revit 2025.
 
 ## Support and Contact
 
@@ -84,4 +86,5 @@ For any questions or assistance, please open an issue on the GitHub repository o
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/98juju98/CCJM/blob/main/LICENSE) file for details.
+
 
