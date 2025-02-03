@@ -10,8 +10,19 @@
 
 CCJM is a plugin for Autodesk Revit designed to enhance productivity by providing additional features such as managing shortcuts, hyperlinks, and your favorite commands. Export multiple sheets in 1 dwg. Generated the center of gravity. Traingulation from vertical points. Sum volumes, area, length ...
 
-## Installation
-1. **Download**: Obtain the `CCJM.zip` file from the [Releases](https://github.com/98juju98/CCJM/releases) section of this repository.
+## Installation with admin rights
+1. **Download**: Obtain the `Install.CCJM.Admin.rights.msi` file from the [Releases](https://github.com/98juju98/CCJM/releases) section of this repository.
+
+2. **Unblock**: After downloading, right-click on `CCJM.zip`, select `Properties`, and check `Unblock` if available.
+
+   ![déblocage admin](https://github.com/user-attachments/assets/606c3701-d16b-462e-8cb8-b024a8d1813c)   
+
+3. **Install**: Click on `Install CCJM (Admin rights).msi` and Next.
+
+      Path: `C:\Users\%USERNAME%\AppData\Roaming\Autodesk\Revit\Addins\`
+
+## Installation without admin rights
+1. **Download**: Obtain the `CCJM.Without.Admin.zip` file from the [Releases](https://github.com/98juju98/CCJM/releases) section of this repository.
 
 2. **Unblock**: After downloading, right-click on `CCJM.zip`, select `Properties`, and check `Unblock` if available.
 
@@ -25,6 +36,7 @@ CCJM is a plugin for Autodesk Revit designed to enhance productivity by providin
   ```
 
 > *Note: The `AppData` folder is hidden by default. To reveal it, open File Explorer, go to the `View` tab, and check `Hidden items`.*
+
 
 5. **Prerequisites**: Ensure that the .NET Framework 4.8 is installed on your system. It is included by default in Windows 11 and Windows 10 version 21H2 and later. If not present, download it from the official Microsoft website: [https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48).
   
