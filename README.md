@@ -4,11 +4,11 @@
 ![GitHub issues](https://img.shields.io/github/issues/98juju98/CCJM?style=flat)
 
 # CCJM (plugin Revit)
-![CCJM ruban](https://github.com/user-attachments/assets/f2244591-a7f6-4878-9c5e-3871cb36a49d)
+![CCJM ruban](https://github.com/user-attachments/assets/ec2bd446-85e3-470f-b520-73f3bf8c76bf)
 
 ## Description
 
-CCJM is a plugin for Autodesk Revit designed to enhance productivity by providing additional features such as managing shortcuts, hyperlinks, and your favorite commands. Export multiple sheets in 1 dwg. Generated the center of gravity. Traingulation from vertical points. Sum volumes, area, length ...
+CCJM is a plugin for Autodesk Revit designed to enhance productivity by providing additional features such as managing shortcuts, hyperlinks, and your favorite commands. Export multiple sheets in 1 dwg. Generated the center of gravity. Traingulation from vertical points. Sum volumes, area, length ... Join elements in active view.
 
 ## Installation with admin rights
 1. **Download**: Obtain the `Install.CCJM.Admin.rights.msi` file from the [Releases](https://github.com/98juju98/CCJM/releases) section of this repository.
@@ -20,6 +20,7 @@ CCJM is a plugin for Autodesk Revit designed to enhance productivity by providin
 3. **Install**: Click on `Install CCJM (Admin rights).msi` and Next.
 
       Path: `C:\Users\%USERNAME%\AppData\Roaming\Autodesk\Revit\Addins\`
+
 
 ## Installation without admin rights
 1. **Download**: Obtain the `CCJM.Without.Admin.zip` file from the [Releases](https://github.com/98juju98/CCJM/releases) section of this repository.
@@ -58,13 +59,15 @@ To uninstall CCJM:
 
 - **Multiple Sheets To One DWG**: Exports a set of sheets into a single DWG file without title block.
 
-- **Center Of Gravity**: Places a family at the center of gravity of one or more selected elements.
-
 - **Your Saved Path**: Retrieve all your saved paths and hyperlinks from the DockablePane.
 
 - **Sum**: Adds the values of elements with the same parameter name (Volume, surface, length...).
 
+- **Join Elements**: Join elements (Roof, walls, colums, floor ...) in active view.
+
 - **Recollation Diaphragm Wall**: Creates a Delaunay triangulation on a vertical element from a DWG file containing points (one DWG per side of the triangulation).
+
+- **Center Of Gravity**: Places a family at the center of gravity of one or more selected elements.
 
 - **Information on this Document**: Exports various information about the current Revit document to Excel or TXT format.
 
@@ -72,6 +75,9 @@ To uninstall CCJM:
 
 - **Move**: Moves the panel and saves your most used buttons from the DockablePane. You can also customize the icons of this panel (16x16 pixel images).
 
+## Video
+
+You can find some video to explain features on this channel: https://www.youtube.com/@pluginCCJM
 
 ## Customizing Your Panel
 
