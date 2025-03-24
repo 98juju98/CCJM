@@ -10,6 +10,10 @@
 
 CCJM is a plugin for Autodesk Revit designed to enhance productivity by providing additional features such as managing shortcuts, hyperlinks, and your favorite commands. Export multiple sheets in 1 dwg. Generated the center of gravity. Traingulation from vertical points. Sum volumes, area, length ... Join elements in active view.
 
+## Language
+
+The CCJM plugin is available in three languages: 🇬🇧 English, 🇫🇷 French, and 🇪🇸 Spanish.
+
 ## Installation with admin rights
 1. **Download**: Obtain the `Install.CCJM.Admin.rights.msi` file from the [Releases](https://github.com/98juju98/CCJM/releases) section of this repository.
 
