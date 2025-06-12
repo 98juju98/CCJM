@@ -4,15 +4,15 @@
 ![GitHub issues](https://img.shields.io/github/issues/98juju98/CCJM?style=flat)
 
 # CCJM (plugin Revit)
-![CCJM ruban](https://github.com/user-attachments/assets/1eeaec6e-b7e3-4458-8ee2-520be631fd77)
-
-## Description
-
-CCJM is a plugin for Autodesk Revit designed to enhance productivity by providing additional features such as managing shortcuts, hyperlinks, and your favorite commands. Export multiple sheets in 1 dwg. Generated the center of gravity. Traingulation from vertical points. Sum volumes, area, length ... Join elements in active view, Generated motion in revit.
+![ruban](https://github.com/user-attachments/assets/724362a0-3107-41a1-9fb5-8f9daeb5764c)
 
 ## Language
 
 The CCJM plugin is available in three languages: 🇬🇧 English, 🇫🇷 French, and 🇪🇸 Spanish.
+
+## Description
+
+CCJM is a plugin for Autodesk Revit designed to enhance productivity by providing additional features such as managing shortcuts, hyperlinks, and your favorite commands. Export multiple sheets in 1 dwg. Generated the center of gravity. Traingulation from vertical points. Sum volumes, area, length ... Join elements in active view, Generated motion in revit, 4D phasage.
 
 ## Installation with admin rights and without admin rights
 1. **Download**: Obtain the `InstallCCJM.7z` file from the [Releases](https://github.com/98juju98/CCJM/releases) section of this repository.
@@ -57,6 +57,10 @@ To uninstall CCJM:
 
 - **Move Elements**: Generate movement in revit with one or more elements on model curve (option: generate pdf).
 
+- **Phase**: Change phase faster with button `Phase+1, Phase-1` and scroll through the phases every second with button `Play`.
+
+- **4D**: Create a 4D phasage.
+
 - **Information on this Document**: Exports various information about the current Revit document to Excel.
 
 - **Information CCJM**: Check for information, video, github, linkedin.
@@ -78,5 +82,3 @@ For any questions or assistance, please open an issue on the GitHub repository o
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/98juju98/CCJM/blob/main/LICENSE) file for details.
-
-
