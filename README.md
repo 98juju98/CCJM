@@ -4,7 +4,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/98juju98/CCJM?style=flat)
 
 # CCJM (plugin Revit)
-![ruban](https://github.com/user-attachments/assets/724362a0-3107-41a1-9fb5-8f9daeb5764c)
+<img width="1412" height="101" alt="CCJM ruban" src="https://github.com/user-attachments/assets/68bf9692-0603-470d-938b-549968e9986f" />
 
 ## Language
 
@@ -12,7 +12,7 @@ The CCJM plugin is available in three languages: 🇬🇧 English, 🇫🇷 Fren
 
 ## Description
 
-CCJM is a plugin for Autodesk Revit designed to enhance productivity by providing additional features such as managing shortcuts, hyperlinks, and your favorite commands. Export multiple sheets in 1 dwg. Generated the center of gravity. Traingulation from vertical points. Sum volumes, area, length ... Join elements in active view, Generated motion in revit, 4D phasage.
+CCJM is a plugin for Autodesk Revit designed to enhance productivity by providing additional features such as managing shortcuts, hyperlinks, and your favorite commands. Export multiple sheets in 1 dwg. Generated the center of gravity. Traingulation from vertical points. Sum volumes, area, length ... Join elements in active view, Generated motion in revit, 4D phasage, copy filter, export/import schedules to excel.
 
 ## Installation with admin rights and without admin rights
 1. **Download**: Obtain the `InstallCCJM.7z` file from the [Releases](https://github.com/98juju98/CCJM/releases) section of this repository.
@@ -46,6 +46,10 @@ To uninstall CCJM:
 - **(Beta) Multiple Sheets To One DWG**: Exports a set of sheets into a single DWG file with title block.
 
 - **Your Saved Path**: Retrieve all your saved paths and hyperlinks from the DockablePane.
+
+- **Excel**: Export/Import schedule to excel.
+
+- **Copy filter**: Copy filter from on view to another view with override graphics.
 
 - **Sum**: Adds the values of elements with the same parameter name (Volume, surface, length...).
 
