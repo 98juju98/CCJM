@@ -49,7 +49,7 @@ To uninstall CCJM:
 
 - **Excel**: Export/Import schedule to excel.
 
-- **Copy filter**: Copy filter from on view to another view with override graphics.
+- **Copy filter**: Copy filter from a view to another view with override graphics.
 
 - **Sum**: Adds the values of elements with the same parameter name (Volume, surface, length...).
 
