@@ -22,6 +22,14 @@ CCJM is a plugin for Autodesk Revit designed to enhance productivity by providin
 3. **Protection**: Select `Additional information` and `Execute`.     
 
 ![install1](https://github.com/user-attachments/assets/6b1bf1b8-7474-4d51-b7c1-7f8390524df1)
+
+4. **Installation**: A window will open to start the installation. Press any key when the installation is complete.
+
+<img width="735" height="293" alt="instal" src="https://github.com/user-attachments/assets/4412f900-daa1-427c-8bfc-bd08ebb16881" />
+
+5. **Revit**: Open Revit, then click on `Always Load` when the popup appears.
+
+<img width="339" height="150" alt="revit" src="https://github.com/user-attachments/assets/4b822569-9c7f-4404-ad84-1252227251e7" />
   
 ## Uninstallation
 
