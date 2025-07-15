@@ -27,6 +27,8 @@ CCJM is a plugin for Autodesk Revit designed to enhance productivity by providin
 
 <img width="735" height="293" alt="instal" src="https://github.com/user-attachments/assets/4412f900-daa1-427c-8bfc-bd08ebb16881" />
 
+Note: If you have installed a previous version and there is an error during the installation, delete the CCJM.addin file and CCJM folder in: `C:\Users\YOURNAME\AppData\Roaming\Autodesk\Revit\Addins\202x\`
+
 5. **Revit**: Open Revit, then click on `Always Load` when the popup appears.
 
 <img width="339" height="150" alt="revit" src="https://github.com/user-attachments/assets/4b822569-9c7f-4404-ad84-1252227251e7" />
