@@ -33,6 +33,10 @@ Note: If you have installed a previous version and there is an error during the 
 5. **Revit**: Open Revit, then click on `Always Load` when the popup appears.
 
 <img width="339" height="150" alt="revit" src="https://github.com/user-attachments/assets/4b822569-9c7f-4404-ad84-1252227251e7" />
+
+6. **CCJM**: Find `CCJM` in the Ribbon.
+
+<img width="1228" height="124" alt="ajout CCJM" src="https://github.com/user-attachments/assets/1dae998d-d9e4-4d6e-8ca9-1e780ebf4070" />
   
 ## Uninstallation
 
