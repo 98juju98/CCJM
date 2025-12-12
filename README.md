@@ -98,4 +98,5 @@ For any questions or assistance, please open an issue on the GitHub repository o
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/98juju98/CCJM/blob/main/LICENSE) file for details.
+The CCJM plugin is provided free of charge, but remains proprietary.
+See [LICENSE](https://github.com/98juju98/CCJM/blob/main/LICENSE) for the full End-User License Agreement (EULA).
