@@ -1,21 +1,66 @@
-MIT License
+EULA – End-User License Agreement
 
-Copyright (c) 2025 98juju98
+CCJM Plugin for Autodesk Revit
+Copyright © 2025 – Julien Moreaux. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Purpose
+This End-User License Agreement (“EULA”) is a legal contract between you (“the User”) and Julien Moreaux (“the Licensor”) governing the use of the CCJM software, its components, documentation, and any materials delivered under this designation (“the Software”).
+By installing, copying, or using the Software, you agree to be bound by the terms of this EULA. If you do not agree with these terms, you must stop using the Software and uninstall it immediately.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. Nature of the Software
+The Software is provided free of charge, but remains the exclusive property of the Licensor.
+The source code is not provided, and may not be accessed, inspected, or modified unless expressly authorized in writing by the Licensor.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. License Grant
+Subject to your compliance with this EULA, the Licensor grants you a personal, non-exclusive, non-transferable, and revocable license to:
+install and use the Software on one or more devices;
+use the Software for personal or professional purposes.
+No other rights are granted. The Software is licensed, not sold.
+
+4. Restrictions
+Except with explicit prior written permission from the Licensor, the User is strictly prohibited from:
+modifying, altering, merging, or adapting the Software;
+attempting to decompile, disassemble, or reverse-engineer the Software;
+redistributing, publishing, renting, leasing, lending, transferring, or sublicensing the Software, in whole or in part;
+bypassing or attempting to bypass any technical protection mechanisms;
+using the Software for unlawful purposes or in a manner that infringes third-party rights;
+integrating the Software into any commercial product or service.
+Any violation of these restrictions constitutes a breach of this EULA.
+
+5. Intellectual Property
+The Software is protected by copyright and applicable international conventions.
+All rights not expressly granted in this EULA remain the exclusive property of the Licensor.
+No implicit licenses are granted regarding patents, trademarks, or other intellectual property rights.
+
+6. Data Collection
+The Software may collect anonymous technical usage information (e.g., usage statistics, system information) for the purpose of improving performance and user experience. No personal data is collected without your prior and explicit consent.
+If you do not wish your data to be collected, you must uninstall the Software or disable this feature when offered.
+
+7. Updates
+The Licensor may provide updates, patches, or new versions of the Software.
+Such versions remain subject to this EULA unless otherwise stated.
+
+8. No Warranty
+The Software is provided “as is”, without any express or implied warranty, including but not limited to warranties of performance, merchantability, fitness for a particular purpose, or non-infringement.
+The User assumes all risks associated with the use of the Software.
+
+9. Limitation of Liability
+To the maximum extent permitted by law, the Licensor shall not be liable for:
+direct or indirect damages,
+loss of data,
+financial loss,
+business interruption,
+or any other damage arising from the use or inability to use the Software,
+even if the Licensor has been informed of the possibility of such damages.
+
+10. Termination
+This EULA automatically terminates if the User fails to comply with any of its provisions.
+Upon termination, the User must cease all use of the Software and delete all copies.
+
+11. Governing Law
+This EULA is governed by the laws of France.
+Any dispute arising from its interpretation or execution shall fall under the exclusive jurisdiction of the French courts.
+
+12. General Provisions
+If any provision of this EULA is found invalid, the remaining provisions shall remain in full force and effect.
+Failure by the Licensor to exercise any right does not constitute a waiver of that right.
