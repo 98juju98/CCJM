@@ -4,7 +4,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/98juju98/CCJM?style=flat)
 
 # CCJM (plugin Revit)
-<img width="1412" height="101" alt="CCJM ruban" src="https://github.com/user-attachments/assets/68bf9692-0603-470d-938b-549968e9986f" />
+<img width="1599" height="154" alt="Ruban V3" src="https://github.com/user-attachments/assets/3fca98d4-9856-417e-b50d-74765b72aef3" />
 
 ## Language
 
@@ -12,7 +12,7 @@ The CCJM plugin is available in three languages: 🇬🇧 English, 🇫🇷 Fren
 
 ## Description
 
-CCJM is a plugin for Autodesk Revit designed to enhance productivity by providing additional features such as managing shortcuts, hyperlinks, and your favorite commands. Export multiple sheets in 1 dwg. Generated the center of gravity. Traingulation from vertical points. Sum volumes, area, length ... Join elements in active view, Generated motion in revit, 4D phasage, copy filter, export/import schedules to excel.
+CCJM is a plugin for Autodesk Revit designed to enhance productivity by providing additional features such as managing shortcuts, hyperlinks, and your favorite commands. Export multiple sheets in 1 dwg, export several sheets according to a name codification. Generated the center of gravity. Triangulation from vertical points. Sum volumes, area, length ... Join elements in active view, Generated motion in revit, 4D phasage, copy filter, export/import schedules to excel, align views on several sheets, change the phases of the active view with a button.
 
 ## Installation with admin rights and without admin rights
 1. **Download**: Obtain the `InstallCCJM2024.exe`, `InstallCCJM2025.exe`, `InstallCCJM2026.exe` file from the [Releases](https://github.com/98juju98/CCJM/releases) section of this repository.
@@ -32,11 +32,11 @@ Note: If you have installed a previous version and there is an error during the 
 
 5. **Revit**: Open Revit, then click on `Always Load` when the popup appears.
 
-<img width="339" height="150" alt="revit" src="https://github.com/user-attachments/assets/4b822569-9c7f-4404-ad84-1252227251e7" />
+<img width="339" height="150" alt="revit" src="https://github.com/user-attachments/assets/8562b1f0-212d-44ca-a560-db9c019d12eb" />
 
 6. **CCJM**: Find `CCJM` in the Ribbon.
 
-<img width="1228" height="124" alt="ajout CCJM" src="https://github.com/user-attachments/assets/1dae998d-d9e4-4d6e-8ca9-1e780ebf4070" />
+<img width="1228" height="124" alt="ajout CCJM Ruban V3" src="https://github.com/user-attachments/assets/a07c185d-c940-45d0-bc3d-c8fad9d38c0d" />
   
 ## Uninstallation
 
@@ -52,21 +52,21 @@ To uninstall CCJM:
 
 ## Features
 
-- **Show DockablePane**: Displays the DockablePane to manage your shortcuts, hyperlinks, and favorite commands.
+- **Show DockablePane**: Displays the DockablePane to manage your shortcuts, hyperlinks, panels, and favorite commands.
 
-- **Multiple Sheets To One DWG**: Exports a set of sheets into a single DWG file without title block.
-
-- **(Beta) Multiple Sheets To One DWG**: Exports a set of sheets into a single DWG file with title block.
-
-- **Your Saved Path**: Retrieve all your saved paths and hyperlinks from the DockablePane.
-
-- **Excel**: Export/Import schedule to excel.
-
-- **Copy filter**: Copy filter from a view to another view with override graphics.
+- **Export**: Export "Fusion" a set of sheets into a single DWG file, pdf. Export "Multiple" a set of sheets according to a name codification
 
 - **Sum**: Adds the values of elements with the same parameter name (Volume, surface, length...).
 
 - **Join Elements**: Join elements (Roof, walls, colums, floor ...) in active view.
+
+- **Align Sheets**: Align views on several sheets.
+
+- **Your Saved Path**: Retrieve all your saved paths and hyperlinks from the DockablePane.
+
+- **Copy filter**: Copy filter from a view to another view with override graphics.  
+
+- **Excel**: Export/Import schedule to excel.
 
 - **Recollation Diaphragm Wall**: Creates a Delaunay triangulation on a vertical element from a DWG file containing points (one DWG per side of the triangulation).
 
@@ -74,13 +74,15 @@ To uninstall CCJM:
 
 - **Move Elements**: Generate movement in revit with one or more elements on model curve (option: generate pdf).
 
-- **Phase**: Change phase faster with button `Phase+1, Phase-1` and scroll through the phases every second with button `Play`.
+- **Phase**: Change phase faster with button `Phase+1, Phase-1` and retrieve information on the project phases `Info Phases`.
 
 - **4D**: Create a 4D phasage.
 
+- **Settings 4D**: Set the dates of the 4D phasing
+
 - **Information on this Document**: Exports various information about the current Revit document to Excel.
 
-- **Information CCJM**: Check for information, video, github, linkedin.
+- **Information CCJM**: Check for information, video, github, linkedin, remove CCJM global paremeter.
 
 - **Move**: Moves the panel and saves your most used buttons from the DockablePane. You can also customize the icons of this panel (16x16 pixel images).
 
@@ -94,7 +96,7 @@ This plugin is compatible with Autodesk Revit 2024, Autodesk Revit 2025, Autodes
 
 ## Support and Contact
 
-For any questions or assistance, please open an issue on the GitHub repository or contact the author directly.
+For any questions or assistance, please open an issue on the GitHub repository or contact the author directly on LinkedIn: https://www.linkedin.com/in/julien-moreaux/
 
 ## License
 
