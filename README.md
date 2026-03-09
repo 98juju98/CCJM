@@ -102,3 +102,5 @@ For any questions or assistance, please open an issue on the GitHub repository o
 
 The CCJM plugin is provided free of charge, but remains proprietary.
 See [LICENSE](https://github.com/98juju98/CCJM/blob/main/LICENSE) for the full End-User License Agreement (EULA).
+This plugin is developed on a personal basis outside of my professional activity.
+He is not affiliated with my employer.
