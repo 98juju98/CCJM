@@ -4,7 +4,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/98juju98/CCJM?style=flat)
 
 # CCJM (plugin Revit)
-<img width="1599" height="154" alt="Ruban V3" src="https://github.com/user-attachments/assets/3fca98d4-9856-417e-b50d-74765b72aef3" />
+<img width="1600" height="168" alt="ruban CCJM" src="https://github.com/user-attachments/assets/34c23e22-ba9b-4a08-9292-5809de9abe72" />
 
 ## Language
 
