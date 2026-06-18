@@ -15,9 +15,9 @@ The CCJM plugin is available in three languages: 🇬🇧 English, 🇫🇷 Fren
 CCJM is a plugin for Autodesk Revit designed to enhance productivity by providing additional features such as managing shortcuts, hyperlinks, and your favorite commands. Export multiple sheets in 1 dwg, export several sheets according to a name codification. Generated the center of gravity. Triangulation from vertical points. Sum volumes, area, length ... Join elements in active view, Generated motion in revit, 4D phasage, copy filter, export/import schedules to excel, align views on several sheets, change the phases of the active view with a button.
 
 ## Installation with admin rights and without admin rights
-1. **Download**: Obtain the `InstallCCJM2024.exe`, `InstallCCJM2025.exe`, `InstallCCJM2026.exe` file from the [Releases](https://github.com/98juju98/CCJM/releases) section of this repository.
+1. **Download**: Obtain the `InstallCCJM2025.exe`, `InstallCCJM2026.exe`, `InstallCCJM2027.exe` file from the [Releases](https://github.com/98juju98/CCJM/releases) section of this repository.
 
-2. **Install**: Click on: `InstallCCJM2024.exe` for revit 2024, `InstallCCJM2025.exe` for revit 2025, `InstallCCJM2026.exe` for revit 2026.
+2. **Install**: Click on: `InstallCCJM2025.exe` for revit 2025, `InstallCCJM2026.exe` for revit 2026, `InstallCCJM2027.exe` for revit 2027.
 
 3. **Protection**: Select `Additional information` and `Execute`.     
 
@@ -45,9 +45,9 @@ To uninstall CCJM:
 - Delete the `CCJM` folder and the `CCJM.addin` file from the directory:
   
   ```
-  C:\Users\[Your_Name]\AppData\Roaming\Autodesk\Revit\Addins\2024
   C:\Users\[Your_Name]\AppData\Roaming\Autodesk\Revit\Addins\2025
   C:\Users\[Your_Name]\AppData\Roaming\Autodesk\Revit\Addins\2026
+  C:\Users\[Your_Name]\AppData\Roaming\Autodesk\Revit\Addins\2027
   ```
 
 ## Features
