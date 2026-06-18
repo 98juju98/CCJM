@@ -72,8 +72,6 @@ To uninstall CCJM:
 
 - **Center Of Gravity**: Places a family at the center of gravity of one or more selected elements.
 
-- **Move Elements**: Generate movement in revit with one or more elements on model curve (option: generate pdf).
-
 - **Phase**: Change phase faster with button `Phase+1, Phase-1` and retrieve information on the project phases `Info Phases`.
 
 - **4D**: Create a 4D phasage.
@@ -92,7 +90,7 @@ You can find some video to explain features on this channel: https://www.youtube
 
 ## Compatibility
 
-This plugin is compatible with Autodesk Revit 2024, Autodesk Revit 2025, Autodesk Revit 2026.
+This plugin is compatible with Autodesk Revit 2025, Autodesk Revit 2026, Autodesk Revit 2027.
 
 ## Support and Contact
 
